@@ -31,8 +31,7 @@ h6{
     overflow: visible;
 }
 .carousel .carousel-item{
-    /* width: 400px; */
-    width: 300px;
+    width: 400px;
 }
 .carousel-item img{
     -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, #0006);
