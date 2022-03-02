@@ -148,17 +148,16 @@
     }
 }
 
-/* Pixel 5: */
+/* Pixel 5:
 @media screen and (max-width: 393px){
 
 }
 
-/* Galaxy S8: */
+Galaxy S8: 
 @media screen and (max-width: 360px){
 
 }
 
-/* Galaxy Z Fold: */
+Galaxy Z Fold:
 @media screen and (max-width: 280px){
-
-}    
+ */
